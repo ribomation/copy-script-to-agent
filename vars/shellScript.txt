@@ -1,0 +1,6 @@
+Copies a pre-defined shell-script into the agent's workspace
+
+SYNOPSIS
+    shellScript 
+
+
