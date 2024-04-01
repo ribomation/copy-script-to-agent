@@ -1,6 +1,8 @@
 Copies a pre-defined shell-script into the agent's workspace
 
 SYNOPSIS
-    shellScript 
+    shellScript name: <base-name>, args: <script-args>
 
-
+PARAMS
+    name    base-name of the shell-script, located in ./resources/ribomation/linux/
+    args    command-line arguments to pass to the script
